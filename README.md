@@ -1,5 +1,6 @@
 # SVG Logo Generator
 ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)![Static Badge](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&labelColor=black)
+![Static Badge](https://img.shields.io/badge/JEST%20-%20%23C21325?style=for-the-badge&logo=jest&logoColor=%23C21325&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/MIT-%2316A5F3?style=for-the-badge&label=License)
 
 ## Description  :bookmark_tabs:
