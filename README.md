@@ -32,7 +32,8 @@ After running the last code, you will have some questions and as soon as you are
 
  ![Asnwering the questions and checking the logo.svg in the folder.](images/screen3.png)
  ---
-Examples:
+# Examples:
+
 ![hey logo](examples/HEY.svg)
  ---
 ![sad logo](examples/SAD.svg)
