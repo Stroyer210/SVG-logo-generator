@@ -35,7 +35,12 @@ After running the last code, you will have some questions and as soon as you are
 ## Credits :email:
 
 List of all the links that made me succeed this project:
-- https://javascript.plainenglish.io/how-to-inquirer-js-c10a4e05ef1f
+- https://stackoverflow.com/questions/54321161/how-to-write-a-file-to-specific-directory-in-nodejs
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase
+- https://stackoverflow.com/questions/8027423/how-to-check-if-a-string-is-a-valid-hex-color-representation
+- https://stackoverflow.com/questions/38296667/getting-unexpected-token-export 
+- https://github.com/nestjs/nest/issues/680
+- 
 
 
 ## License :memo:
